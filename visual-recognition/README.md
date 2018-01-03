@@ -1,19 +1,23 @@
 # Demo 
 https://visual-recognition-demo.ng.bluemix.net
 
-#Create Service
+# Create Service
+
 1 - Login to bluemix
 
-Search for RECOGNITION
+2 - Search for RECOGNITION
 https://console.bluemix.net/catalog/?category=watson&search=RECOGNITION
 
 ![alt text](i1.png)
 
-Click on Create Button
+3 Click on Create Button
 
 ![alt text](i2.png)
 
-Find your API key
+4 - Find your API key. Go to https://console.bluemix.net/dashboard/apps and select watson-vision service
+
+![alt text](i3.png)
+
 
 #visual recognition tool
 https://watson-visual-recognition.ng.bluemix.net
